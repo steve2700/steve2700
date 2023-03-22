@@ -1,4 +1,4 @@
-##HELLO THERE!
+
 
 <!--
 **steve2700/steve2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/stewart52546176" target="blank"><img src="https://img.shields.io/twitter/follow/stewart52546176?logo=twitter&style=for-the-badge" alt="stewart52546176" /></a> </p>
 
-- 🌱l'm currently learning python and c# **at ALX Holberton**
+- 🌱l'm currently learning python softaware engineering **at ALX Holberton**
 
 - 📝 I regularly write articles on [Personal blog during my free time](Personal blog during my free time)
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stewart52546176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stewart52546176" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stewart-nyaruwata-5225b8246?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bi23d5vqvr0osy0gfjksq2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stewart-nyaruwata-5225b8246?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bi23d5vqvr0osy0gfjksq2g%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/stewart-nyaruwata-5225b8246?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bi23d5vqvr0osy0gfjksq2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stewart-nyaruwata-5225b8246?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bi23d5vqvr0osy0gfjksq2g%3d%3d" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
