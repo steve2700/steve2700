@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/stewart52546176" target="blank"><img src="https://img.shields.io/twitter/follow/stewart52546176?logo=twitter&style=for-the-badge" alt="stewart52546176" /></a> </p>
 
-- 🌱l'm currently learning python softaware engineering **at ALX Holberton**
+- 🌱l'm currently enrolled at Alx doing Full stack engineering.
 
-- 📝 I regularly write articles on [Personal blog during my free time](Personal blog during my free time)
-
-- 💬 Ask me about **PYTHON ,java , html and many more**
+- 💬 Ask me about **Programming, Data Scince, Artificial Intelligence and Chess**
 
 - 📫 How to reach me **nyaruwatastewart27@gmail.com**
 
