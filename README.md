@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm steve2700</h1>
 <h3 align="center">A passionate full stack engineer</h3>
-<img align="right"alt="coding"width="400"src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-reading-book-gifs&psig=AOvVaw3_q5wE_oPCfyMcKW8lYnTI&ust=1682902296394000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjBm-Gx0P4CFQAAAAAdAAAAABAE
+<img align="right"alt="coding"width="400"src=https://media.tenor.com/Vucu5O0U4FAAAAAM/cat-kitten.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve2700&label=Profile%20views&color=0e75b6&style=flat" alt="steve2700" /> </p>
 
