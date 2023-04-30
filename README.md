@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm steve2700</h1>
 <h3 align="center">A passionate full stack engineer</h3>
-<img align="right"alt="coding"width="400"src=https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif
+<img align="right"alt="coding"width="400"src=https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/be601df25eea91eaaf0d.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230430T004726Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=086933eb369f24255b4876998636635170b2b180aeb1ee827f2819385f55e611
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve2700&label=Profile%20views&color=0e75b6&style=flat" alt="steve2700" /> </p>
 
