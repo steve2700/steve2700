@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Stewart Nyaruwata</h1>
 <h3 align="center">A passionate full Stack Engineer</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtur05Z8hji3yhTLJMS5B-fokjQBtX2oLpbw&usqp=CAU">
+<img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve2700&label=Profile%20views&color=0e75b6&style=flat" alt="steve2700" /> </p>
 
