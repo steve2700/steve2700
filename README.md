@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm Stewart Nyaruwata</h1>
 <h2 align="center">Code, Coffee, Repeat: Life in the Loop</h3>
+<img src="https://giphy.com/embed/5CtAj3v1G9jLKwxM5E/video">
 <div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/5CtAj3v1G9jLKwxM5E/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve2700&label=Profile%20views&color=0e75b6&style=flat" alt="steve2700" /> </p>
