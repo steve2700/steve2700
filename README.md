@@ -3,13 +3,9 @@
 <!--
 **steve2700/steve2700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Passionate, professional  software engineer with strong architecture skills and the 🌍
+ability to learn quickly. Committed high quality, reusable, testable code and user experience
+that will stand the test of time. Love functional programming and open source.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -23,10 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/stewart52546176" target="blank"><img src="https://img.shields.io/twitter/follow/stewart52546176?logo=twitter&style=for-the-badge" alt="stewart52546176" /></a> </p>
 
-- 🌱l'm currently enrolled at Alx doing Full stack engineering.
-
-- 💬 Ask me about **Programming, Data Science, Artificial Intelligence and Chess**
-
+Passionate, professional software engineer with strong architecture skills and the
+ability to learn quickly. Committed high quality, reusable, testable code and user experience
+that will stand the test of time. Love functional programming and open source.
 - 📫 How to reach me **nyaruwatastewart27@gmail.com**
 
 - ⚡ Fun fact **I always crack jokes even when the code is giving me a tough time**
