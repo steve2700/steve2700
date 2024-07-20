@@ -6,9 +6,9 @@
 Passionate, professional  software engineer with strong architecture skills and the 🌍
 ability to learn quickly. Committed high quality, reusable, testable code and user experience
 that will stand the test of time. Love functional programming and open source.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 --><h1 align="center">Hi 👋, I'm Stewart Nyaruwata</h1>
 <h2 align="center">Code, Coffee, Repeat: Life in the Loop</h3>
 <img src="https://gifdb.com/images/high/programming-kitten-in-keyboard-mohffqspgkrrlcgi.webp">
@@ -19,13 +19,10 @@ that will stand the test of time. Love functional programming and open source.
 
 <p align="left"> <a href="https://twitter.com/stewart52546176" target="blank"><img src="https://img.shields.io/twitter/follow/stewart52546176?logo=twitter&style=for-the-badge" alt="stewart52546176" /></a> </p>
 
-Passionate, professional software engineer with strong architecture skills and the
+**Passionate, professional software engineer with strong architecture skills and the
 ability to learn quickly. Committed high quality, reusable, testable code and user experience
-that will stand the test of time. Love functional programming and open source.
+that will stand the test of time. Love functional programming and open source.**
 - 📫 How to reach me **nyaruwatastewart27@gmail.com**
-
-- ⚡ Fun fact **I always crack jokes even when the code is giving me a tough time**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stewart52546176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stewart52546176" height="30" width="40" /></a>
